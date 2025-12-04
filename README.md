@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=4000&pause=1000&width=500&lines=Hi+I'm+Nel%2C+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=30&duration=4000&pause=1000&repeat=false&width=600&lines=Hi+I'm+Nel+welcome+to+my+garden!)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,java,spring,mysql,git,gitlab&theme=dark)](https://skillicons.dev)
