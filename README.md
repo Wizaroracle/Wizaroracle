@@ -6,10 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Wizaroracle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Wizaroracle&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizaroracle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=Wizaroracle&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 💻 Youtube Links
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Game dev: The Amazing Zia](https://ytcards.demolab.com/?id=oZS2idDmtIs&title=Game+Dev:+The+amazing+Zia&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Game dev: The Amazing Zia")](https://youtu.be/oZS2idDmtIs?si=CUNZO59AsJ1pdqw8)
