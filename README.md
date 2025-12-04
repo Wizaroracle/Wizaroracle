@@ -1,4 +1,4 @@
-## Hi I'm Nel 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&width=435&lines=Hi+I'm+Nel%2C+a+Software+Engineer.)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,java,spring,mysql,git,gitlab&theme=dark)](https://skillicons.dev)
