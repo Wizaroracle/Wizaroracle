@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=30&duration=4000&pause=1000&width=600&lines=Hi+I'm+Nel+welcome+to+my+garden!)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,mysql,git,gitlab&theme=dark)](https://skillicons.dev)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 # 💻 Projects Demo:
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Game dev: The Amazing Zia](https://ytcards.demolab.com/?id=oZS2idDmtIs&title=Game+Dev:+The+amazing+Zia&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=260&border_radius=5&duration=436 "Game dev: The Amazing Zia")](https://youtu.be/oZS2idDmtIs?si=CUNZO59AsJ1pdqw8)
